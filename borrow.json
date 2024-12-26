@@ -1,0 +1,17 @@
+[
+    {
+        "bookid": "1",
+        "memberid": "1",
+        "borrowed_at": "2024-12-26"
+    },
+    {
+        "bookid": "1",
+        "memberid": "1",
+        "borrowed_at": "2024-12-26"
+    },
+    {
+        "bookid": "8",
+        "memberid": "1",
+        "borrowed_at": "2024-12-26"
+    }
+]

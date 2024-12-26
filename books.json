@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "title": "micro",
+        "author": "mazidi",
+        "quantity": "4",
+        "available": "2"
+    },
+    {
+        "id": "2",
+        "title": "python programming",
+        "author": "guido",
+        "quantity": "6",
+        "available": "6"
+    },
+    {
+        "id": "3",
+        "title": "c programming",
+        "author": "dennis ritchie",
+        "quantity": "5",
+        "available": "5"
+    },
+    {
+        "id": "4",
+        "title": "operating systems",
+        "author": "galvin",
+        "quantity": "3",
+        "available": "3"
+    },
+    {
+        "id": "5",
+        "title": "database systems",
+        "author": "korth",
+        "quantity": "7",
+        "available": "7"
+    },
+    {
+        "id": "6",
+        "title": "data structures",
+        "author": "karumanchi",
+        "quantity": "4",
+        "available": "4"
+    },
+    {
+        "id": "7",
+        "title": "computer networks",
+        "author": "tanenbaum",
+        "quantity": "8",
+        "available": "8"
+    },
+    {
+        "id": "8",
+        "title": "machine learning",
+        "author": "bishop",
+        "quantity": "6",
+        "available": "5"
+    },
+    {
+        "id": "9",
+        "title": "artificial intelligence",
+        "author": "russell",
+        "quantity": "3",
+        "available": "3"
+    },
+    {
+        "id": "10",
+        "title": "digital design",
+        "author": "morris mano",
+        "quantity": "5",
+        "available": "5"
+    }
+]
